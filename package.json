@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "project hexlet-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Fleur26/hexlet-js.git"
+  },
+  "author":"Valeria Khokholeva <lera.hoholeva@yandex.ru> (https://vk.com/lameeeee)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fleur26/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Fleur26/hexlet-js#readme"
+}
