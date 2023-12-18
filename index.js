@@ -1,3 +1,3 @@
-import _ from 'lodash';
 console.log("Hello, Hexlet!");
+module.exports = require('./lodash');
 
