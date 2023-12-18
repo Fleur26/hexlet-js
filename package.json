@@ -10,10 +10,13 @@
     "type": "module",
     "url": "git+https://github.com/Fleur26/hexlet-js.git"
   },
-  "author":"Valeria Khokholeva <lera.hoholeva@yandex.ru> (https://vk.com/lameeeee)",
+  "author": "Valeria Khokholeva <lera.hoholeva@yandex.ru> (https://vk.com/lameeeee)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Fleur26/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Fleur26/hexlet-js#readme"
+  "homepage": "https://github.com/Fleur26/hexlet-js#readme",
+  "devDependencies": {
+    "prettier": "^3.1.1"
+  }
 }
